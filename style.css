@@ -1,10 +1,16 @@
-.container{
-  width: 1000px;
+body{
+  margin: auto;
+  width: 60%;
+  
+}
+
+
+.phonebase{
+  padding-top: 50px;
   display: inline-block;
-  text-align: center;
 
 }
-.phonebase{
-  width: 500px;
-
+aside{
+float: right;
+display: inline-block;
 }
