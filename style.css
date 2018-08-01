@@ -1,7 +1,7 @@
 body{
   margin: auto;
   width: 60%;
-  
+
 }
 
 
@@ -13,4 +13,16 @@ body{
 aside{
 float: right;
 display: inline-block;
+border: 3px lightgray;
+}
+.topline{
+  text-align: center;
+  color: lightgray;
+  font-size: 20px;
+}
+.LoginFB{
+  color: white;
+  background-color: blue;
+  text-align: center;
+  font-size: 20px;
 }
