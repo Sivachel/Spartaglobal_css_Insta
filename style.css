@@ -1,28 +1,66 @@
 body{
   margin: auto;
   width: 60%;
-
 }
-
 
 .phonebase{
   padding-top: 50px;
   display: inline-block;
+}
 
+.logoimg{
+  margin-left: 50px;
+  margin-bottom: 0px;
 }
+
 aside{
-float: right;
-display: inline-block;
-border: 3px lightgray;
+  width: 40%;
+  float: right;
+  display: inline-block;
+  padding-top: 50px;
 }
+
+.rightsidetop{
+  border: solid 3px lightgray;
+  padding-top: 30px;
+  padding-right:25px;
+  padding-left:25px;
+  height: 80%;
+}
+
 .topline{
   text-align: center;
-  color: lightgray;
+  color: gray;
   font-size: 20px;
 }
+
 .LoginFB{
   color: white;
   background-color: blue;
   text-align: center;
   font-size: 20px;
+}
+
+.filling{
+  line-height: 25px;
+}
+
+.signup{
+  background-color: blue;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+
+.bottomline{
+  text-align: center;
+  color: gray;
+  font-size: 20px;
+}
+
+#bottom{
+  border: 3px solid gray;
+  width: 40%;
+  display: inline-block;
+  float: right;
 }
